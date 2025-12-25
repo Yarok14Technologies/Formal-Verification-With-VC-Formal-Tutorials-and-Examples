@@ -1,2 +1,4 @@
-# Formal-Verification-with-VC-Formal
-This repository is a structured learning and reference resource for Formal Verification using Synopsys VC Formal. It covers core concepts, real applications, setup guides, reports, and project artifacts, suitable for students, researchers, and industry engineers
+# Documentation Tutorials Repository
+This repository is dedicated to providing a comprehensive guide and practical examples for using VC Formal for formal verification. Our goal is to help both beginners and experienced users understand the principles of formal verification and how to apply them effectively using VC Formal.
+
+![Poster Image](./VC_Formal_Poster_Preview.jpeg)
