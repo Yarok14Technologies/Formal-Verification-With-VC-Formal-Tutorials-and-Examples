@@ -3,8 +3,6 @@ This repository is dedicated to providing a comprehensive guide and practical ex
 
 ![Poster Image](./VC_Formal_Poster_Preview.jpeg)
 
-Below is a **clean, professional `README.md`** you can directly use for this repository, reflecting the **repo structure shown in your screenshot** and positioning it well for **formal verification / VC Formal learning & reference**.
-
 ---
 
 # Formal Verification with VC Formal
